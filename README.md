@@ -6,7 +6,7 @@
     <span>Jhonn Lennon</span>
 </h1>
 
-<p align="justify">Estudante de Full Stack Developer sou do Rio de Janeiro-RJ, atualmente concluindo o Bootcamp da Santander 2023 e Potência Tech iFood.
+<p align="justify">Estudante de Full Stack Developer sou do Rio de Janeiro-RJ, atualmente concluindo o Bootcamp da Santander 2023 e Potência Tech iFood com foco no Santander Coders 2023.
 <br><br>
 Meu primeiro contato com tecnologia foi a frente do desenvolvimento de uma página para cadastro e download de Minecraft, a época, firstcraft.com.br
 <br><br>
