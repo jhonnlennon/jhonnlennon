@@ -14,3 +14,7 @@ Apaixonado por minha família e tecnologia, faço me deste como meus hobbies com
 principalmente games como Minecraft, MuOnline, World of Warcraft, League of Legens e Ark Survival Evolved.</p>
 
 <h3 align="left">Vamos conversar?</h3>
+
+<a href="https://www.instagram.com/jhonnlennonfelix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jhonn1990@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/jhonn-lennon-felix-figueiredo-381624286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
