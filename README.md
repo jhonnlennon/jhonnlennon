@@ -7,9 +7,9 @@
 </h1>
 
 <p align="justify">Estudante de Full Stack Developer sou do Rio de Janeiro-RJ, atualmente concluindo o Bootcamp da Santander 2023 e Potência Tech iFood.
-<br>
+<br><br>
 Meu primeiro contato com tecnologia foi a frente do desenvolvimento de uma página para cadastro e download de Minecraft, a época, firstcraft.com.br
-<br>
+<br><br>
 Apaixonado por minha família e tecnologia, faço me deste como meus hobbies com muito gosto e carinho. Gosto de animes, séries, filmes de ficção cientifica e
 principalmente games como Minecraft, MuOnline, World of Warcraft, League of Legens e Ark Survival Evolved.</p>
 
