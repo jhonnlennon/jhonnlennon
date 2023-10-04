@@ -1,6 +1,8 @@
-<img align="right" alt="imagem ilustrativa de um homem programando - www.idocode.com.br" height="200px" style="box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);     
+<img align="right" alt="imagem ilustrativa de um homem programando - www.idocode.com.br" height="200px" 
+    style="box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);     
     -webkit-box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);
-     -moz-box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);;" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp">
+     -moz-box-shadow: 10px 10px 25px 0px rgba(0,0,0,0.75);" 
+    src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp">
 
 <h1>
     <a href="https://www.instagram.com/jhonnlennonfelix/">
