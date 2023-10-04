@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://www.instagram.com/jhonnlennonfelix/">
-     <img align="center" alt="Avatar Jhonn Lennon Felix" width="36px" src="https://instagram.fgig6-1.fna.fbcdn.net/v/t51.2885-19/312224665_412541234230246_2126704766640006357_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgig6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Gn20nZvkX_8AX90vlTl&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC2yfvR1wIXTisRIw94dfiRUzsE9zh-96_sxKFYipnEHw&oe=652319A2&_nc_sid=8b3546"></a>
+     <img align="center" alt="Avatar Jhonn Lennon Felix" width="75px" src="https://instagram.fgig6-1.fna.fbcdn.net/v/t51.2885-19/312224665_412541234230246_2126704766640006357_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fgig6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Gn20nZvkX_8AX90vlTl&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC2yfvR1wIXTisRIw94dfiRUzsE9zh-96_sxKFYipnEHw&oe=652319A2&_nc_sid=8b3546"></a>
     <span>Jhonn Lennon</span>
 </h1>
 <!--
